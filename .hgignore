@@ -1,0 +1,9 @@
+syntax:glob
+build/
+test/
+nbproject/
+dist/
+build.xml
+manifest.mf
+syntax: glob
+src/it/bologna/ausl/bdmclient/tests/
